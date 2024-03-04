@@ -1,1 +1,3 @@
 # AMA3020---Solo-Project
+
+This project invloves the study of the double pendulum. By considering different initial conditions such as changing the velocity and angular displacements of the pendulum, various plots will be given to show how the motion of the double pendulum changes over time as a result. These plots will highlight the sensitivity of the system. Another plot showing the solution of the double pendulum, which was obtained via the Runge-Kutta method, will also be given to highlight the unpredictable nature of the system. A full derivation of the Lagrangian of the system will also be included in the supplementary material, as well as some more information the numerical method we utilised to solve the complex equations of motion, the Runge-Kutta method.
